@@ -29,8 +29,9 @@ alias srcqlib='source ~/.virtualenvs/quiteja-lib/bin/activate'
 alias srcqnot='source ~/.virtualenvs/quiteja-notifier/bin/activate'
 
 #Gorillas
-alias cdgauth='cd ~/PycharmProjects/gorillasauth-api/'
-alias srcgauth='source ~/.virtualenvs/gorillasauth-api/bin/activate'
+alias cdgaapi='cd ~/PycharmProjects/gorillasauth-api/'
+alias srcgaapi='source ~/.virtualenvs/gorillasauth-api/bin/activate'
+alias cdgaweb='cd ~/PycharmProjects/gorillasauth-app-web/'
 
 #Docker
 alias dockerall='docker start rabbit-production mysql-local myadmin'
