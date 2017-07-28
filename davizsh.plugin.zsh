@@ -25,4 +25,4 @@ alias srcqlan='source ~/.virtualenvs/quiteja-landing-page/bin/activate'
 alias srcqlib='source ~/.virtualenvs/quiteja-lib/bin/activate'
 alias srcqnot='source ~/.virtualenvs/quiteja-notifier/bin/activate'
 
-alias dockerall='docker start rabbit-production mysql-local'
+alias dockerall='docker start rabbit-production mysql-local myadmin'
