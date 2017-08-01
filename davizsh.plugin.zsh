@@ -22,11 +22,13 @@ alias cdqlan='cd ~/PycharmProjects/quiteja-landing-page/'
 alias cdqlib='cd ~/PycharmProjects/quiteja-lib-py/'
 alias cdqman='cd ~/PycharmProjects/quiteja-management-app-web/'
 alias cdqnot='cd ~/PycharmProjects/quiteja-notifier/'
+alias cdqmet='cd ~/PycharmProjects/quiteja-metrics/'
 alias srcqapi='source ~/.virtualenvs/quiteja-api/bin/activate'
 alias srcqimp='source ~/.virtualenvs/quiteja-importer/bin/activate'
 alias srcqlan='source ~/.virtualenvs/quiteja-landing-page/bin/activate'
 alias srcqlib='source ~/.virtualenvs/quiteja-lib/bin/activate'
 alias srcqnot='source ~/.virtualenvs/quiteja-notifier/bin/activate'
+alias srcqmet='source ~/.virtualenvs/quiteja-metrics/bin/activate'
 
 #Gorillas
 alias cdgaapi='cd ~/PycharmProjects/gorillasauth-api/'
@@ -35,3 +37,5 @@ alias cdgaweb='cd ~/PycharmProjects/gorillasauth-app-web/'
 
 #Docker
 alias dockerall='docker start rabbit-production mysql-local myadmin'
+
+#Pycharm  Processes
