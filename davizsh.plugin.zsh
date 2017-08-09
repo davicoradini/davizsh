@@ -30,6 +30,13 @@ alias srcqlib='source ~/.virtualenvs/quiteja-lib/bin/activate'
 alias srcqnot='source ~/.virtualenvs/quiteja-notifier/bin/activate'
 alias srcqmet='source ~/.virtualenvs/quiteja-metrics/bin/activate'
 
+#Renaul Experience - Open Innovation
+alias cdoweb='cd ~/PycharmProjects/open-innovation-app-web/'
+alias cdoapi='cd ~/PycharmProjects/open-innovation-api/'
+alias cdqoasy='cd ~/PycharmProjects/open-innovation-async/'
+alias srcoapi='source ~/.virtualenvs/open-innovation-api/bin/activate'
+alias srcoasy='source ~/.virtualenvs/open-innovation-async/bin/activate'
+
 #Gorillas
 alias cdgaapi='cd ~/PycharmProjects/gorillasauth-api/'
 alias srcgaapi='source ~/.virtualenvs/gorillasauth-api/bin/activate'
